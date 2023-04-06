@@ -28,15 +28,6 @@
         <li><a href="#description">Description</a></li>
           <ul>
             <li><a href="#camera">Camera</a></li>
-              <ul>
-                <li><a href="#book">Book</a></li>
-                <li><a href="#document">Document</a></li>
-                <li><a href="#count">Count</a></li>
-                <li><a href="#area">Area</a></li>
-                <li><a href="#passport">Passport</a></li>
-                <li><a href="#qr-code">QR Code</a></li>
-                <li><a href="#id-card">ID Card</a></li>
-              </ul>
             <li><a href="#main-screen">Main Screen</a></li>
             <li><a href="#viewing-a-document">Viewing a Document</a></li>
             <li><a href="#editing-a-document">Editing a Document</a></li>
