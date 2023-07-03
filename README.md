@@ -162,9 +162,9 @@ Until March 2022, this company had a department for the development of iOS appli
 
 ### Team Composition
 
-- 1 **Product** manager
-- 2 **Project** manager
-- 2 **UI/UX** Designer
+- 1 **Product** Manager
+- 1-2 **Project** Managers
+- 2 **UI/UX** Designers
 - 2 **QA** Engineers
 - 4-6 **iOS** Developers
 
