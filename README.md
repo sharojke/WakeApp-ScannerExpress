@@ -6,14 +6,7 @@
 <br />
 <div align="center">
   <img title="App Icon" src="/Resources/Images/app-icon.JPG" alt="Logo" height="200">
-  
   <h3 align="center">Scanner Express</h3>
-  
-  <p align="center">
-    <em>
-      An application for scanning, editing and storing documents of various types
-    </em>
-  </p>
 </div>
 
 
